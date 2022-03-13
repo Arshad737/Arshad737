@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Arshad Khan</h1>
+<h1 align="center">Hi 👋, I'm Arshad</h1>
 <h3 align="center">A passionate frontend developer from India, who loves learning new things and technologies evolving in computer world</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad737" alt="arshad737" /></a> </p>
