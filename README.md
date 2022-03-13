@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Arshad Khan</h1>
+<h1 align="center">Hi 👋, I'm Arshad</h1>
 <h3 align="center">A passionate frontend developer from India, who loves learning new things and technologies evolving in computer world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad737&label=Profile%20views&color=0e75b6&style=flat" alt="arshad737" /> </p>
