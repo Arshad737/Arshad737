@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Arshad Khan</h1>
-<h3 align="center">A passionate frontend developer from India, who loves learning new things and technologies evolving in computer world</h3>
+<h3 align="center">A passionate frontend developer from India, who loves learning new things</h3>
 
 <p align="left"> <a href="https://twitter.com/arshadkhan615" target="blank"><img src="https://img.shields.io/twitter/follow/arshadkhan615?logo=twitter&style=for-the-badge" alt="arshadkhan615" /></a> </p>
 
